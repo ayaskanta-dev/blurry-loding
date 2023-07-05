@@ -9,4 +9,4 @@
 
 ### Preview Link
 
-- *[View Here](https://ayaskanta-dev.github.io/blurry-loading/)*
+- *[View Here](https://ayaskanta-dev.github.io/blurry-loding/)*
