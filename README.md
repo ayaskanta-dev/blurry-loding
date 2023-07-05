@@ -9,4 +9,4 @@
 
 ### Preview Link
 
-- *[View Here](https://ayaskanta-dev.github.io/expanding-cards/)*
+- *[View Here](https://ayaskanta-dev.github.io/blurry-loading/)*
