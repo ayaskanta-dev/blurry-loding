@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap");
+
+body {
+  font-family: "poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+#bg {
+  background: url("background.jpg") no-repeat center center/cover;
+  position: absolute;
+  top: -50px;
+  left: -50px;
+  width: calc(100vw + 100px);
+  height: calc(100vh + 100px);
+  z-index: -1;
+}
+
+#loading-text {
+  font-size: 30px;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background-color: white;
+  color: teal;
+  cursor: pointer;
+}
